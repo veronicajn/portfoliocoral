@@ -1,0 +1,25 @@
+
+.container__menu{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 20px 10px;
+    width: 100%;
+    background-color:black;
+}
+.container__links {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 90px;
+    padding-left: 20px;
+}
+.enlaces{
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    text-decoration: none;
+    padding: 17px;
+    color: white;
+  
+}
